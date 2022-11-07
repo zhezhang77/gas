@@ -1,0 +1,19 @@
+{
+  "timeZone": "Pacific/Auckland",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "FirestoreApp",
+        "version": "33",
+        "libraryId": "1VUSl4b1r1eoNcRWotZM3e87ygkxvXltOgyDZhixqncz9lQ3MjfT1iKFw"
+      },
+      {
+        "userSymbol": "FirebaseApp",
+        "version": "30",
+        "libraryId": "1hguuh4Zx72XVC1Zldm_vTtcUUKUA6iBUOoGnJUWLfqDWx5WlOJHqYkrt"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
